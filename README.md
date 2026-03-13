@@ -14,9 +14,12 @@ cd CorePrompt_AI
 
 ### 3. Model Setup
 
-- Create a models/ folder in the project root.
+- Create a models/ folder in the backend/ folder.
 
 - Download mistral-7b-instruct-v0.2.Q4_K_M.gguf.
+```bash
+https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF/blob/main/mistral-7b-instruct-v0.2.Q4_K_M.gguf
+```
 
 - Place it in models/.
 
