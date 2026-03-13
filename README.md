@@ -23,10 +23,14 @@ cd CorePrompt_AI
 ### 4. Environment Setup
 
 - Create environment with specific Python version
+```bash
   python -m venv myenv
-
+  ```
 - Activate
+```bash
   myenv\Scripts\activate
-
+```
 - Install dependencies
+```bash
   pip install -r requirements.txt
+```
